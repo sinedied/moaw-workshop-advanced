@@ -29,9 +29,10 @@ To make it easier to edit your workshop docs, you can use the [MOAW CLI](https:/
 - Run `moaw serve` to preview your workshop content locally, with live reload.
 - Run `moaw link docs/workshop.md` once your workshop is complete to generate a shareable link to your workshop.
 
-## Other MOAW templates
+## All MOAW templates
 
 - [moaw-workshop-basic](https://github.com/sinedied/moaw-workshop-basic): A basic template for creating a MOAW workshop, only containing the workshop documentation and devcontainer setup.
+- [moaw-workshop-advanced](https://github.com/sinedied/moaw-workshop-advanced): A more advanced template for creating a MOAW workshop from a complete project repository. In addition to the workshop documentation and devcontainer setup, it includes template scripts to create one or more packages and setup the initial project structure.
 
 ## Contributing
 
