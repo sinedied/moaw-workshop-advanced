@@ -21,7 +21,7 @@ The following are some of the steps you can take to customize your workshop:
 - Update the `docs` folder with your workshop content. See this [link](https://moaw.dev/workshop/create-workshop/?step=2#edit-the-workshop-metadata) for more information on how to author your workshop content.
 - Update the `.devcontainer` folder with your workshop environment.
 - Update the `scripts/repo/create-packages.sh` script to create packages for your workshop (see `TODO:` notes in the script).
-- Update the `scripts/repo/setup-project.sh` script to create the GitHub template for your workshop (see `TODO:` notes in the script).
+- Update the `scripts/repo/setup-project.sh` script to create the GitHub template for your workshop (see `TODO:` notes in the script). In your workshop documentation, you should include instructions for users to run this script to set up their project.
 
 To make it easier to edit your workshop docs, you can use the [MOAW CLI](https://github.com/microsoft/moaw/tree/main/packages/cli):
 
