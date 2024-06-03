@@ -1,8 +1,7 @@
 name: Update workshop packages
 on:
   push:
-    branches:
-      - base
+    branches: [main]
 
 jobs:
   update_packages:
