@@ -4,6 +4,7 @@ This repository contains a simple starter template for creating a [MOAW](https:/
 
 This template includes the following:
 - Built-in MOAW workshop documentation, located in the `docs` folder.
+- A `.devcontainer` folder for setting up the workshop environment.
 - A GitHub Actions workflow for automatically creating packages for the workshop (for intermediate steps, solution, etc).
 - A [`setup-project.sh`](scripts/repo/setup-project.sh) script for setting up the project for the workshop.
 
